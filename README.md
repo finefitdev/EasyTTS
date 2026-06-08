@@ -1,4 +1,4 @@
-#  -=< EasyTTS ✦ >=-
+#  -=< Speak My Chat! >=-
 ### simple, enter a channel, hit connect, done. ݁˖
 
 ![screenshot](example/example1.png)
@@ -7,7 +7,7 @@
 (Also Setup banned words)
 ---
 
-## -=< download ✦ >=-
+## -=< download >=-
 
 **just want to run it?**
 grab the exe from [Releases](../../releases) — it'll create the `voices/` and `sounds/` folders automatically on first launch. no install, no setup.
@@ -19,7 +19,7 @@ python main.py
 ```
 
 
-simpleTTS uses **piper-tts** for offline neural voices. each chatter gets one assigned randomly when they first speak.
+SMC uses **piper-tts** for offline neural voices. each chatter gets one assigned randomly when they first speak.
 
 **to add voices:**
 1. download `.onnx` + `.onnx.json` pairs from the [piper releases page](https://github.com/rhasspy/piper/releases)
